@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1155443833.svg)](https://doi.org/10.5281/zenodo.18620565)
+
 # Sec11A-Signal Peptide Structural Analysis Pipeline
 
 This repository contains the analysis workflow used in the manuscript **"Structural basis of signal peptide recognition by the signal peptidase complex, by Liaci, Vismpas et al., 2026"**. The pipeline processes AlphaFold2-Multimer models to identify, filter, and validate peptide-enzyme docking orientations against experimental references.
