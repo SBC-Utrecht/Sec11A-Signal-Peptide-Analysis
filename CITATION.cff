@@ -15,7 +15,7 @@ authors:
     affiliation: Utrecht University
 identifiers:
   - type: doi
-    value: 10.1234/zenodo.1234567
+    value: 10.5281/zenodo.18620565
     description: zenodo DOI for the code
 repository-code: 'https://github.com/SBC-Utrecht/Sec11A-Signal-Peptide-Analysis'
 abstract: >-
