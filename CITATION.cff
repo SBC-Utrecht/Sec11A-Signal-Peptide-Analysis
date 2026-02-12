@@ -108,8 +108,8 @@ preferred-citation:
     - Cryo-EM Single Particle Analysis
   license: CC-BY-4.0
   journal: "Nature Communications"
-  month: X
-  start: X # First page number
-  doi: 10.X/XXXXXX
-  volume: XX
+  #month: X
+  #start: X # First page number
+  #doi: 10.X/XXXXXX
+  #volume: XX
   year: 2026
