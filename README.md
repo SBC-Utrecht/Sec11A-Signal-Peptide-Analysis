@@ -1,7 +1,8 @@
-# Sec11A-Peptide Structural Analysis Pipeline
+# Sec11A-Signal Peptide Structural Analysis Pipeline
+
+This repository contains the analysis workflow used in the manuscript **"Structural basis of signal peptide recognition by the signal peptidase complex, by Liaci, Vismpas et al., 2026"**. The pipeline processes AlphaFold2-Multimer models to identify, filter, and validate peptide-enzyme docking orientations against experimental references.
 
 Author: Dr. Ioannis Skalidis
-This repository contains the analysis workflow used in the manuscript **"Structural basis of signal peptide recognition by the signal peptidase complex, by Liaci, Vismpas et al., 2026"**. The pipeline processes AlphaFold2-Multimer models to identify, filter, and validate peptide-enzyme docking orientations against experimental references.
 
 ## 1. Overview
 The workflow is split into three main stages:
@@ -12,8 +13,8 @@ The workflow is split into three main stages:
 ## 2. Installation
 Ensure you have Python 3.11+ installed. Clone this repository and install dependencies:
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/SBC-Utrecht/Sec11A-Signal-Peptide-Analysis.git](https://github.com/SBC-Utrecht/Sec11A-Signal-Peptide-Analysis.git)
+cd Sec11A-Signal-Peptide-Analysis
 pip install -r requirements.txt
 ```
 ## 3. Usage
