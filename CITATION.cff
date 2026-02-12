@@ -1,0 +1,115 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sec11A Signal Peptide Analysis
+message: >-
+  If you use this code, please cite both the article
+  from preferred-citation and the code itself.
+type: software
+authors:
+  - given-names: Ioannis
+    family-names: Skalidis
+    email: i.skalidis@uu.nl
+    orcid: 'https://orcid.org/0000-0002-3077-9014'
+    affiliation: Utrecht University
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo.1234567
+    description: zenodo DOI for the code
+repository-code: 'https://github.com/SBC-Utrecht/Sec11A-Signal-Peptide-Analysis'
+abstract: >-
+  Structural analysis pipeline for filtering, validating, and visualizing AlphaFold2-multimer models of the Sec11A-signal peptide complex. 
+keywords:
+  - alphafold2
+  - alphafold2-multimer
+  - structural biology
+  - signal peptidase complex
+  - signal peptide
+  - biopython
+  - chimerax
+  - bioinformatics
+license: MIT
+preferred-citation:
+  authors:
+    - given-names: A. Manuel
+      family-names: Liaci
+      affiliation: Utrecht University
+      orcid: 'https://orcid.org/0000-0001-5421-6112'
+      email: mliaci@gmx.de
+    - given-names: Dimitrios
+      family-names: Vismpas
+      email: d.vismpas@uu.nl
+      affiliation: Utrecht University
+      orcid: 'https://orcid.org/0009-0006-5724-1771'
+    - given-names: Lisbeth R.
+      family-names: Kjølbye
+      email: lisbeth.kjoelbye@gmail.com
+      affiliation: CNRS Délégation Alpes
+      orcid: 'https://orcid.org/0000-0003-2834-3411'
+    - given-names: Ioannis
+      family-names: Skalidis
+      email: i.skalidis@uu.nl
+      affiliation: Utrecht University
+      orcid: 'https://orcid.org/0000-0002-3077-9014'
+    - given-names: Gilberto P.
+      family-names: Pereira
+      email: gilberto.pereiraportugal@gmail.com
+      affiliation: CNRS Délégation Alpes
+      orcid: 'https://orcid.org/0000-0002-6277-0006'
+    - given-names: Adrian Fujiet
+      family-names: Koh
+      affiliation: Thermo Fisher Scientific
+      orcid: 'https://orcid.org/0000-0001-6682-4449'
+      email: adrian.koh@thermofisher.com
+    - given-names: Mariska
+      family-names: Gröllers-Mulderij
+      email: m.grollers-mulderij@uu.nl
+      affiliation: Utrecht University
+      orcid: 'https://orcid.org/0009-0004-8793-0880'
+    - given-names: Abhay
+      family-names: Kotecha
+      affiliation: Thermo Fisher Scientific
+      orcid: 'https://orcid.org/0000-0002-4480-5439'
+      email: abhay.kotecha@stjude.org
+    - given-names: Paulo C. T.
+      family-names: Souza
+      affiliation: ' École Normale Supérieure de Lyon'
+      email: paulo.telles_de_souza@ens-lyon.fr
+      orcid: 'https://orcid.org/0000-0003-0660-1301'
+    - given-names: Friedrich
+      family-names: Förster
+      email: f.g.forster@uu.nl
+      affiliation: Utrecht University
+      orcid: 'https://orcid.org/0000-0002-6044-2746'
+  type: article
+  title: "Structural basis of signal peptide recognition by the signal peptidase complex."
+  abstract: >-
+    The signal peptidase complex (SPC) is responsible for cleaving signal peptides (SPs) 
+    from approximately 10% of the human proteome. SPs are characterized by a tripartite 
+    structure, consisting of an N-terminal n-region, a central helical h-region and a 
+    C-terminal c-region, each defined by broad physicochemical preferences. Despite their 
+    sequence diversity, SPC recognizes and processes SPs with exquisite specificity. Here, 
+    we present a 2.6 Å cryo-EM map of the human SPC-A, one of two SPC paralogs, bound to a 
+    model SP. The c-region binds to a hydrophobic binding groove near the active site, a 
+    narrow gate marks the transition from c- to h-region, and the h-region localizes in a 
+    transmembrane (TM) window. Substrate engagement stabilizes N- and C-terminal helices 
+    of Sec11A, which frame the SP and are unresolved in the apo structure. Molecular dynamics 
+    (MD) simulations confirm a stable hydrogen-bonding network at the c-region and indicate 
+    dynamic interactions within a thinned lipid environment at the TM window. AlphaFold modeling 
+    supports this binding mode across physiological SPs. Collectively, our structural and 
+    computational analyses explain how the SPC achieves its specificity by combining the 
+    selectivity of the luminal binding groove and of the transmembrane window.
+  keywords:
+    - Signal Peptidase Complex
+    - Protein Biogenesis
+    - Secretory Pathway 
+    - Membrane Thinning
+    - Cryo-EM Single Particle Analysis
+  license: CC-BY-4.0
+  journal: "Nature Communications"
+  month: X
+  start: X # First page number
+  doi: 10.X/XXXXXX
+  volume: XX
+  year: 2026
